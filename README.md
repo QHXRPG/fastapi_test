@@ -1,2 +1,2 @@
 # fastapi_test
-fastapi常用方法
+一个关于fastapi实战的代码库
